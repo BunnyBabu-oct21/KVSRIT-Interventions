@@ -1,0 +1,6 @@
+{
+  "name": "KVSRIT Interventions",
+  "description": "Explainable AI-Powered Student Early-Warning & Intervention Tracking System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
